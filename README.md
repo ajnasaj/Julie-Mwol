@@ -31,7 +31,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/farhan-dqz/ajnasaj
-$ cd Julie-Mwol
+$ cd ajnasaj
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node ajnas.js
@@ -40,7 +40,7 @@ $ node ajnas.js
 ```js
 SETUP
 $ git clone https://github.com/farhan-dqz/ajnasaj
-$ cd JulieMwol
+$ cd ajnasaj
 $ npm i
 $ node ajnas.js
 ```
@@ -48,15 +48,15 @@ $ node ajnas.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/farhan-dqz/ajnasaj">
     
 <a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/farhan-dqz/ajnasaj?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/ajnasaj/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwolajnasaj?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwolajnasaj/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/ajnasaj?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/ajnasaj/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/ajnasaj?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/ajnasaj/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/ajnasaj?color=blue&style=flat-square"></a>
 <a href="https://github.com/farhan-dqz/ajnasaj/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/ajnasaj?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
@@ -67,7 +67,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=ajnasaj&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=ajnasaj&theme=nightowl)](https://github.com/farhan-dqz/ajnasaj)
   </div>
     
 ### ⚠️ Warning! 
